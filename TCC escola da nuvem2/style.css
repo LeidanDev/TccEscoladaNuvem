@@ -114,6 +114,7 @@ footer{
     .teste{
         display: flex;
         flex-direction: column;
+        align-itens:center;
     }
 
     .modelo{
